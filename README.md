@@ -80,7 +80,7 @@ Here are some sample output images demonstrating the pose estimation and object 
 
 | Output 1 | Output 2 |
 |----------|----------|
-| ![Sample Output 1](output1.png) | ![Sample Output 2](output2.jpg) |
+| ![Sample Output 1](output.png) | ![Sample Output 2](output2.jpg) |
 
 ## Why YOLOv3
 
