@@ -6,6 +6,8 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-blue)](https://jupyter.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.1-green)](https://opencv.org/)
 
+![Welcome Image](images/welcome.png)
+
 ## Project Description
 
 QuantaPose-Detect is an advanced deep learning project designed to perform both pose estimation and object detection using the YOLOv3 algorithm. The main objective of this project is to accurately identify objects in images and videos, and simultaneously estimate the poses of these objects, particularly human figures. By integrating the robust object detection capabilities of YOLOv3 with pose estimation, QuantaPose-Detect offers a comprehensive solution for various computer vision applications such as surveillance, sports analytics, human-computer interaction, and augmented reality.
@@ -27,7 +29,7 @@ QuantaPose-Detect is an advanced deep learning project designed to perform both 
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/QuantaPose-Detect.git
+   git clone https://github.com/KoustavD1423/QuantaPose-Detect.git
    cd QuantaPose-Detect
    ```
 
@@ -76,8 +78,9 @@ python PoseEstimation_Objectdetection_YOLOV3_videoinfernec.py --input path/to/vi
 
 Here are some sample output images demonstrating the pose estimation and object detection capabilities of QuantaPose-Detect:
 
-![Sample Output 1](output.png)
-![Sample Output 2](output2.jpg)
+| Output 1 | Output 2 |
+|----------|----------|
+| ![Sample Output 1](output1.png) | ![Sample Output 2](output2.jpg) |
 
 ## Why YOLOv3
 
@@ -122,4 +125,4 @@ QuantaPose-Detect builds on the powerful YOLOv3 architecture, known for its real
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to customize further if needed. This expanded version includes a comprehensive explanation of the project, why YOLOv3 was chosen, future scope, and detailed usage instructions.
+Feel free to customize further if needed. This version includes a welcome image at the beginning, and the sample output images are labeled and displayed in a table for consistent sizing.
