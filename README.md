@@ -123,7 +123,6 @@ QuantaPose-Detect builds on the powerful YOLOv3 architecture, known for its real
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
 
 ## Contact
 
