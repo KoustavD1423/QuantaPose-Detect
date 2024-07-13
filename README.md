@@ -6,7 +6,7 @@
 [![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-blue)](https://jupyter.org/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5.1-green)](https://opencv.org/)
 
-![Welcome Image](images/welcome.png)
+![Welcome Image](Enhanced-YOLO-v3-architecture.png)
 
 ## Project Description
 
