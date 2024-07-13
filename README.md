@@ -1,6 +1,3 @@
-Certainly! Here is a more detailed `README.md` file with a comprehensive description of QuantaPose-Detect:
-
-```markdown
 # QuantaPose-Detect
 
 [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
