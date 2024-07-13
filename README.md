@@ -125,4 +125,11 @@ QuantaPose-Detect builds on the powerful YOLOv3 architecture, known for its real
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 ```
 
-Feel free to customize further if needed. This version includes a welcome image at the beginning, and the sample output images are labeled and displayed in a table for consistent sizing.
+## Contact
+
+If you have any questions, suggestions, or feedback, feel free to contact me:
+
+- Email: [yourname@example.com](mailto:ghostsneverdie123@gmail.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/koustav-das-384b96223/)
+- GitHub: [Your GitHub Profile](https://github.com/KoustavD1423)
+```
