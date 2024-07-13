@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions, suggestions, or feedback, feel free to contact me:
 
-- Email: [yourname@example.com](mailto:ghostsneverdie123@gmail.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/koustav-das-384b96223/)
-- GitHub: [Your GitHub Profile](https://github.com/KoustavD1423)
+- Email: [ghostsneverdie123@gmail.com](mailto:ghostsneverdie123@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/koustav-das-384b96223/](https://www.linkedin.com/in/koustav-das-384b96223/)
+- GitHub: [https://github.com/KoustavD1423](https://github.com/KoustavD1423)
 ```
